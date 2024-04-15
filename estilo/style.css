@@ -92,6 +92,7 @@ header > h1 {
 nav {
     background-color: var(--cor5);
     padding: 10px;
+    margin: 5px;
 }
 
 nav > a {
@@ -101,7 +102,6 @@ nav > a {
     border-radius: 5px;
     font-weight: bold;
     transition-duration: 0.2s;
-    margin: 5px;
 }
 
 nav > a:hover {
